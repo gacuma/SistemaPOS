@@ -17,6 +17,46 @@ dotnet sln POS.sln add src/POS.Domain/POS.Domain.csproj
 
 ```C#
 dotnet add [ProjectName] package [NamePackage]
+dotnet add src/POS.Domain/POS.Domain.csproj package Microsoft.EntityFrameworkCore.SqlServer
+```
+
+### Añadir Entity Framework Core Tools or Design
+
+```C#
+dotnet add [ProjectName] package [NamePackage]
+dotnet add src/POS.Domain/POS.Domain.csproj package Microsoft.EntityFrameworkCore.Tools
+dotnet add src/POS.Domain/POS.Domain.csproj package Microsoft.EntityFrameworkCore.Design
+dotnet add src/POS.Api/POS.Api.csproj package Microsoft.EntityFrameworkCore.Design
+```
+
+### Añadir System.Linq.Dynamic.Core
+
+```C#
+dotnet add src/POS.Infrastructure/POS.Infrastructure.csproj package System.Linq.Dynamic.Core
+```
+
+### Añadir AutoMapper
+
+```C#
+dotnet add src/POS.Application/POS.Application.csproj package AutoMapper
+```
+
+### Añadir AutoMapper.Extensions.Microsoft.DependencyInjection
+
+```C#
+dotnet add src/POS.Application/POS.Application.csproj package AutoMapper.Extensions.Microsoft.DependencyInjection
+```
+
+### Añadir Azure.Storage.Blobs
+
+```C#
+dotnet add src/POS.Application/POS.Application.csproj package Azure.Storage.Blobs
+```
+
+### Añadir FluentValidation.AspNetCore
+
+```C#
+dotnet add src/POS.Application/POS.Application.csproj package FluentValidation.AspNetCore
 ```
 
 ### Realizar migraciones

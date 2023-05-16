@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s77CKdecrcpcH1mKIqIqe8INWA/rnltrsbNXDt4t+lmI8ixZt7YX0ILwmxhDODOGcJyHEMplFjtt4v3cv/7IHA==",
+  "dgSpecHash": "xOg5ds6e+4/H3y4dFgMLdmNiq5HR3D7kwg4wSkPqgmynElaD3QuVYnYCdc9Euh6nGIgAvoNRnQY8Kmg3uRNl7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gacuma\\.nuget\\packages\\system.linq.dynamic.core\\1.3.2\\system.linq.dynamic.core.1.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

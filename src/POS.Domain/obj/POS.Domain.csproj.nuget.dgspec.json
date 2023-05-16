@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gacuma\\Desktop\\Dotnet\\POS\\src\\POS.Domain\\POS.Domain.csproj": {}
+    "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gacuma\\Desktop\\Dotnet\\POS\\src\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gacuma\\Desktop\\Dotnet\\POS\\src\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\POS\\src\\POS.Domain\\POS.Domain.csproj",
+        "projectPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj",
         "packagesPath": "C:\\Users\\gacuma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\POS\\src\\POS.Domain\\obj\\",
+        "outputPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

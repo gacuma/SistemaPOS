@@ -59,34 +59,17 @@ dotnet add src/POS.Application/POS.Application.csproj package Azure.Storage.Blob
 dotnet add src/POS.Application/POS.Application.csproj package FluentValidation.AspNetCore
 ```
 
-### Realizar migraciones
+### Añadir Referencias a los Proyectos
 
 ```C#
-dotnet ef migrations add [NameMigration]
-```
+dotnet add src/POS.Infrastructure/POS.Infrastructure.csproj reference src/POS.Domain/POS.Domain.csproj
+dotnet add src/POS.Infrastructure/POS.Infrastructure.csproj reference src/POS.Utilities/POS.Utilities.csproj
 
-### Actualizar Base de Datos
+dotnet add src/POS.Application/POS.Application.csproj reference src/POS.Domain/POS.Domain.csproj
+dotnet add src/POS.Application/POS.Application.csproj reference src/POS.Infrastructure/POS.Infrastructure.csproj
+dotnet add src/POS.Application/POS.Application.csproj reference src/POS.Utilities/POS.Utilities.csproj
 
-```C#
-dotnet ef database update
-```
-
-### Remover una migracion
-
-```C#
-dotnet ef migrations remove
-```
-
-### Habilitar certificado SSL
-
-```C#
-dotnet dev-certs https --trust
-```
-
-### Para poder ejecutar la aplicacion con https
-
-Para las aplicaciones creadas con .Net 7 se realizaron cambios en la configuracion para https. Se generan dos perfiles uno por default que es el de http y otro el https, por lo que tendra que hacer referencia al perfil con el cual desea ejecutar su aplicación o modificar el launchSettings de su proyecto.
-
-```C#
-dotnet run --launch-profile https
+dotnet add src/POS.API/POS.API.csproj reference src/POS.Application/POS.Application.csproj
+dotnet add src/POS.API/POS.API.csproj reference src/POS.Infrastructure/POS.Infrastructure.csproj
+dotnet add src/POS.API/POS.API.csproj reference src/POS.Utilities/POS.Utilities.csproj
 ```

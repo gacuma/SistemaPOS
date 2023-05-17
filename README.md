@@ -72,4 +72,12 @@ dotnet add src/POS.Application/POS.Application.csproj reference src/POS.Utilitie
 dotnet add src/POS.API/POS.API.csproj reference src/POS.Application/POS.Application.csproj
 dotnet add src/POS.API/POS.API.csproj reference src/POS.Infrastructure/POS.Infrastructure.csproj
 dotnet add src/POS.API/POS.API.csproj reference src/POS.Utilities/POS.Utilities.csproj
+
+dotnet add test/POS.Test/POS.Test.csproj reference src/POS.API/POS.API.csproj
+```
+
+### Realizar scaffold de la Base de Datos
+
+```C#
+dotnet ef dbcontext scaffold "Server=NameServer;Database=NameDB;User Id=User;Password=Password;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o Entities
 ```

@@ -82,8 +82,14 @@ dotnet add test/POS.Test/POS.Test.csproj reference src/POS.API/POS.API.csproj
 dotnet ef dbcontext scaffold "Server=NameServer;Database=NameDB;User Id=User;Password=Password;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o Entities
 ```
 
-### Añadir secretos de usuario a un
+### Añadir secretos de usuario
 
 ```C#
 dotnet user-secrets init
+```
+
+El archivo de secretos de usuario se guarda en la siguiente direccion de nuestro equipo.
+
+```
+C:\Users\[UserName]\AppData\Roaming\Microsoft\UserSecrets\[IdUserSecret]\secrets.json
 ```

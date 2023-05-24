@@ -3282,24 +3282,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gacuma\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
       "projectName": "POS.Infrastructure",
-      "projectPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\gacuma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gacuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Gabriel Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3313,11 +3308,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj": {
-              "projectPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj"
+            "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj": {
+              "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj"
             },
-            "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj": {
-              "projectPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj"
+            "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj"
             }
           }
         }
@@ -3353,7 +3348,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

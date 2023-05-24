@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj": {}
+    "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj": {
+    "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj",
         "projectName": "POS.Utilities",
-        "projectPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj",
-        "packagesPath": "C:\\Users\\gacuma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gacuma\\Desktop\\Dotnet\\SistemaPOS\\src\\POS.Utilities\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gacuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabriel Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

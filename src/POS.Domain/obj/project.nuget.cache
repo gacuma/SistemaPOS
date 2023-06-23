@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0mlr8zsJAWM3PPZM9SKzRpUihAZ+McfAQJWTLiKRELd3aKtHrHfxICNg51p/n37sYIjOGSlcROegfKlY8Wok7w==",
+  "dgSpecHash": "geOJxMs9jL8FC0S3TaBCQqk2CaaE9BeGkquYDjcoQp+QwkpCmOLHd+6EOywtc4x1vJ9EhszdWUCv0GoxMBIDGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj",
+  "projectFilePath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Domain\\POS.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

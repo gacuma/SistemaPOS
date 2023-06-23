@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj": {}
+    "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Infrastructure\\POS.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj": {
+    "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj",
+        "projectPath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Domain\\POS.Domain.csproj",
         "packagesPath": "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\obj\\",
+        "outputPath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+    "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Infrastructure\\POS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
         "projectName": "POS.Infrastructure",
-        "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Infrastructure\\POS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,11 +95,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Domain\\POS.Domain.csproj"
+              "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Domain\\POS.Domain.csproj"
               },
-              "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj"
+              "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -135,18 +135,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj": {
+    "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Utilities\\POS.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj",
+        "projectUniqueName": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Utilities\\POS.Utilities.csproj",
         "projectName": "POS.Utilities",
-        "projectPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj",
+        "projectPath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Utilities\\POS.Utilities.csproj",
         "packagesPath": "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\obj\\",
+        "outputPath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,7 +190,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

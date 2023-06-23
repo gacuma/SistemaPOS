@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uyZk56LkLIHBtQUe3xsbfMKG3Dn4kTdnQieO2KA3g+BYIGTeCQT0T2GePmWcjQwtOB5sO0R8C1yJw7Ee2b9x0A==",
+  "dgSpecHash": "rPsW3tHyyiXf57GnooH1fM7LdgxB1rt0/o+WgIFngGMLCeKbVgAuoZ1SeEmAWCURtSyUGmRK2cx67x2ZQwTA0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.Utilities\\POS.Utilities.csproj",
+  "projectFilePath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.Utilities\\POS.Utilities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

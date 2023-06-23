@@ -59,6 +59,12 @@ dotnet add src/POS.Application/POS.Application.csproj package Azure.Storage.Blob
 dotnet add src/POS.Application/POS.Application.csproj package FluentValidation.AspNetCore
 ```
 
+### Añadir Mvc Testing
+
+```C#
+dotnet add test/POS.Test/POS.Test.csproj package Microsoft.AspNetCore.Mvc.Testing
+```
+
 ### Añadir Referencias a los Proyectos
 
 ```C#

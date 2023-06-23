@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zwGBuwItzbwhbBYOf+2gV50YIUNyYy7EJtnBBLXQblgNFPpV79UrsAZx0zbexy0+Bs8FlUSHXRBUyqTIauMWQ==",
+  "dgSpecHash": "myk+kMgzNAoJkqjiZli1C3rmzN/D+V6IBnq/u1fxmn8A3re8HfdthwDPPRUAth32XoXrNhvZHbXe3RDjWXDiyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOS\\src\\POS.API\\POS.API.csproj",
+  "projectFilePath": "c:\\Users\\Gabriel Cruz\\Desktop\\Pruebas\\SistemaPOSBACK\\src\\POS.API\\POS.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Gabriel Cruz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
